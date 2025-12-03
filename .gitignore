@@ -38,3 +38,6 @@ packages/
 
 # Excel temp
 ~$*.xlsx
+
+!Release/
+
